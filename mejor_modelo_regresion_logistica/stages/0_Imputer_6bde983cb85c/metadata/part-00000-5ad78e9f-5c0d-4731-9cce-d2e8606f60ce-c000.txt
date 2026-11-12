@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1794523631816,"sparkVersion":"4.0.5","uid":"Imputer_6bde983cb85c","paramMap":{"outputCols":["edad_imp","colesterol_imp"],"strategy":"median","inputCols":["edad","colesterol"]},"defaultParamMap":{"missingValue":"NaN","outputCol":"Imputer_6bde983cb85c__output","strategy":"mean","relativeError":0.001}}
